@@ -1,4 +1,5 @@
-## A Generic and Model-Agnostic Exemplar Synthetization Framework for Explainable AI - Official implementation of the ECML 2020 paper
+A Generic and Model-Agnostic ExemplarSynthetization Framework for Explainable AI
+
 
 We provide a minimal source code able to run our experiments. Each data modality has usage guidelines inside their respective folder.
 

@@ -1,0 +1,200 @@
+{'age': 46.0, 'workclass': 'Private', 'fnlwgt': 499477.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.2784808576107025, 'capital-loss': -1.0959702730178833, 'hours-per-week': 38.0, 'native-country': 'United-States'}
+
+{'age': 49.0, 'workclass': 'Private', 'fnlwgt': 209222.0, 'education': 'Doctorate', 'educational-num': 20.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.009901195764541626, 'capital-loss': -1.9548566341400146, 'hours-per-week': 45.0, 'native-country': 'United-States'}
+
+{'age': 38.0, 'workclass': 'Private', 'fnlwgt': 186388.0, 'education': 'Prof-school', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.6844220161437988, 'capital-loss': -1.1333178281784058, 'hours-per-week': 91.0, 'native-country': 'United-States'}
+
+{'age': 48.0, 'workclass': 'Private', 'fnlwgt': 105785.0, 'education': 'Doctorate', 'educational-num': 19.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.4203096330165863, 'capital-loss': -1.9152262210845947, 'hours-per-week': 64.0, 'native-country': 'United-States'}
+
+{'age': 45.0, 'workclass': 'Self-emp-inc', 'fnlwgt': 191110.0, 'education': 'Prof-school', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.5964772701263428, 'capital-loss': -0.8091139793395996, 'hours-per-week': 119.0, 'native-country': 'United-States'}
+
+{'age': 51.0, 'workclass': 'Private', 'fnlwgt': 123006.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.24073991179466248, 'capital-loss': -1.5398484468460083, 'hours-per-week': 53.0, 'native-country': 'United-States'}
+
+{'age': 52.0, 'workclass': 'Private', 'fnlwgt': 152237.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.292990118265152, 'capital-loss': -0.5677205324172974, 'hours-per-week': 63.0, 'native-country': 'United-States'}
+
+{'age': 46.0, 'workclass': 'Private', 'fnlwgt': 212211.0, 'education': 'Doctorate', 'educational-num': 19.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.23948726058006287, 'capital-loss': -1.7490050792694092, 'hours-per-week': 56.0, 'native-country': 'United-States'}
+
+{'age': 33.0, 'workclass': 'Private', 'fnlwgt': 56301.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.6378988027572632, 'capital-loss': -0.6974366903305054, 'hours-per-week': 85.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 184155.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.10854482650756836, 'capital-loss': -0.9726837873458862, 'hours-per-week': 40.0, 'native-country': 'United-States'}
+
+{'age': 45.0, 'workclass': 'Private', 'fnlwgt': 119294.0, 'education': 'Prof-school', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.610029935836792, 'capital-loss': -1.1544559001922607, 'hours-per-week': 85.0, 'native-country': 'United-States'}
+
+{'age': 53.0, 'workclass': 'State-gov', 'fnlwgt': 557660.0, 'education': 'Doctorate', 'educational-num': 22.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.2931409776210785, 'capital-loss': -2.284693717956543, 'hours-per-week': 52.0, 'native-country': 'United-States'}
+
+{'age': 52.0, 'workclass': 'Private', 'fnlwgt': 344938.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.05567196011543274, 'capital-loss': -1.517730712890625, 'hours-per-week': 43.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 293855.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.18336588144302368, 'capital-loss': -0.7162079811096191, 'hours-per-week': 43.0, 'native-country': 'United-States'}
+
+{'age': 54.0, 'workclass': 'Private', 'fnlwgt': 135739.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.23030024766921997, 'capital-loss': -1.2213313579559326, 'hours-per-week': 58.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 120017.0, 'education': 'Masters', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.3454012870788574, 'capital-loss': -0.4751478135585785, 'hours-per-week': 52.0, 'native-country': 'United-States'}
+
+{'age': 44.0, 'workclass': 'Private', 'fnlwgt': 200681.0, 'education': 'Doctorate', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.18920326232910156, 'capital-loss': -0.6246145963668823, 'hours-per-week': 44.0, 'native-country': 'United-States'}
+
+{'age': 51.0, 'workclass': 'Private', 'fnlwgt': 341156.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.1271151900291443, 'capital-loss': -0.7087461948394775, 'hours-per-week': 42.0, 'native-country': 'United-States'}
+
+{'age': 64.0, 'workclass': 'Private', 'fnlwgt': 127498.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.43955251574516296, 'capital-loss': -1.0258991718292236, 'hours-per-week': 61.0, 'native-country': 'United-States'}
+
+{'age': 52.0, 'workclass': 'Private', 'fnlwgt': 208193.0, 'education': 'Doctorate', 'educational-num': 19.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.10058698058128357, 'capital-loss': -1.77601957321167, 'hours-per-week': 39.0, 'native-country': 'United-States'}
+
+{'age': 59.0, 'workclass': 'Private', 'fnlwgt': 120061.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.31844496726989746, 'capital-loss': -1.2497035264968872, 'hours-per-week': 61.0, 'native-country': 'United-States'}
+
+{'age': 36.0, 'workclass': 'Private', 'fnlwgt': 59170.0, 'education': 'Prof-school', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.547507643699646, 'capital-loss': -1.0216783285140991, 'hours-per-week': 54.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 78809.0, 'education': 'Masters', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.40309739112854004, 'capital-loss': -0.6182941198348999, 'hours-per-week': 50.0, 'native-country': 'United-States'}
+
+{'age': 63.0, 'workclass': 'Private', 'fnlwgt': 104601.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.2405323088169098, 'capital-loss': -1.922843337059021, 'hours-per-week': 44.0, 'native-country': 'United-States'}
+
+{'age': 47.0, 'workclass': 'Private', 'fnlwgt': 108916.0, 'education': 'Doctorate', 'educational-num': 20.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.3228701651096344, 'capital-loss': -2.101438045501709, 'hours-per-week': 56.0, 'native-country': 'United-States'}
+
+{'age': 49.0, 'workclass': 'Private', 'fnlwgt': 51147.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.442170113325119, 'capital-loss': -1.1645551919937134, 'hours-per-week': 50.0, 'native-country': 'United-States'}
+
+{'age': 45.0, 'workclass': 'Private', 'fnlwgt': 330684.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.06273922324180603, 'capital-loss': -1.0804005861282349, 'hours-per-week': 47.0, 'native-country': 'United-States'}
+
+{'age': 38.0, 'workclass': 'Private', 'fnlwgt': 45519.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.5579789876937866, 'capital-loss': -0.6874302625656128, 'hours-per-week': 84.0, 'native-country': 'United-States'}
+
+{'age': 43.0, 'workclass': 'Private', 'fnlwgt': 110917.0, 'education': 'Masters', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.1377134770154953, 'capital-loss': -0.5590063333511353, 'hours-per-week': 39.0, 'native-country': 'United-States'}
+
+{'age': 46.0, 'workclass': 'Private', 'fnlwgt': 134743.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.30237528681755066, 'capital-loss': -1.431674838066101, 'hours-per-week': 56.0, 'native-country': 'United-States'}
+
+{'age': 52.0, 'workclass': 'Private', 'fnlwgt': 328175.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.22080016136169434, 'capital-loss': -0.7037379741668701, 'hours-per-week': 54.0, 'native-country': 'United-States'}
+
+{'age': 36.0, 'workclass': 'Private', 'fnlwgt': 69316.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.5263546705245972, 'capital-loss': -0.8532286882400513, 'hours-per-week': 55.0, 'native-country': 'United-States'}
+
+{'age': 48.0, 'workclass': 'Self-emp-inc', 'fnlwgt': 199048.0, 'education': 'Prof-school', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.4351471960544586, 'capital-loss': -0.605671763420105, 'hours-per-week': 139.0, 'native-country': 'United-States'}
+
+{'age': 49.0, 'workclass': 'Self-emp-inc', 'fnlwgt': 178884.0, 'education': 'Prof-school', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.4532342255115509, 'capital-loss': -0.6165479421615601, 'hours-per-week': 130.0, 'native-country': 'United-States'}
+
+{'age': 47.0, 'workclass': 'Private', 'fnlwgt': 140104.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.356288343667984, 'capital-loss': -1.2498043775558472, 'hours-per-week': 60.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 289477.0, 'education': 'Doctorate', 'educational-num': 19.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.08186528086662292, 'capital-loss': -1.880711555480957, 'hours-per-week': 53.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 98095.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.43838733434677124, 'capital-loss': -1.531471848487854, 'hours-per-week': 67.0, 'native-country': 'United-States'}
+
+{'age': 35.0, 'workclass': 'Private', 'fnlwgt': 205962.0, 'education': 'Prof-school', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.6546276807785034, 'capital-loss': -1.302468180656433, 'hours-per-week': 81.0, 'native-country': 'United-States'}
+
+{'age': 53.0, 'workclass': 'Private', 'fnlwgt': 125500.0, 'education': 'Doctorate', 'educational-num': 19.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.2927801311016083, 'capital-loss': -1.973544955253601, 'hours-per-week': 60.0, 'native-country': 'United-States'}
+
+{'age': 56.0, 'workclass': 'Private', 'fnlwgt': 192587.0, 'education': 'Bachelors', 'educational-num': 13.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Exec-managerial', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.35239699482917786, 'capital-loss': -0.07786205410957336, 'hours-per-week': 47.0, 'native-country': 'United-States'}
+
+{'age': 58.0, 'workclass': 'Private', 'fnlwgt': 99965.0, 'education': 'Masters', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.4100784957408905, 'capital-loss': -0.9662787914276123, 'hours-per-week': 46.0, 'native-country': 'United-States'}
+
+{'age': 47.0, 'workclass': 'Private', 'fnlwgt': 737075.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.5123790502548218, 'capital-loss': -0.5223401784896851, 'hours-per-week': 41.0, 'native-country': 'United-States'}
+
+{'age': 51.0, 'workclass': 'Private', 'fnlwgt': 220003.0, 'education': 'Doctorate', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.1432478129863739, 'capital-loss': -0.5395334362983704, 'hours-per-week': 39.0, 'native-country': 'United-States'}
+
+{'age': 45.0, 'workclass': 'Private', 'fnlwgt': 327760.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.0392780601978302, 'capital-loss': -1.4406487941741943, 'hours-per-week': 49.0, 'native-country': 'United-States'}
+
+{'age': 65.0, 'workclass': 'Private', 'fnlwgt': 100927.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.3557741940021515, 'capital-loss': -1.567274570465088, 'hours-per-week': 41.0, 'native-country': 'United-States'}
+
+{'age': 58.0, 'workclass': 'Private', 'fnlwgt': 123374.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.29251590371131897, 'capital-loss': -1.2840722799301147, 'hours-per-week': 64.0, 'native-country': 'United-States'}
+
+{'age': 46.0, 'workclass': 'Private', 'fnlwgt': 111446.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.4128601849079132, 'capital-loss': -0.40744683146476746, 'hours-per-week': 75.0, 'native-country': 'United-States'}
+
+{'age': 56.0, 'workclass': 'Private', 'fnlwgt': 338384.0, 'education': 'Bachelors', 'educational-num': 13.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Exec-managerial', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.33406195044517517, 'capital-loss': -0.06660610437393188, 'hours-per-week': 54.0, 'native-country': 'United-States'}
+
+{'age': 49.0, 'workclass': 'Private', 'fnlwgt': 340166.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.11192339658737183, 'capital-loss': -0.7554827928543091, 'hours-per-week': 43.0, 'native-country': 'United-States'}
+
+{'age': 56.0, 'workclass': 'Self-emp-not-inc', 'fnlwgt': 47106.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.5053478479385376, 'capital-loss': -0.9588378667831421, 'hours-per-week': 63.0, 'native-country': 'United-States'}
+
+{'age': 51.0, 'workclass': 'Private', 'fnlwgt': 55348.0, 'education': 'Doctorate', 'educational-num': 19.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.5129604339599609, 'capital-loss': -1.7988430261611938, 'hours-per-week': 65.0, 'native-country': 'United-States'}
+
+{'age': 52.0, 'workclass': 'Self-emp-not-inc', 'fnlwgt': 63290.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.481377512216568, 'capital-loss': -0.6184232234954834, 'hours-per-week': 112.0, 'native-country': 'United-States'}
+
+{'age': 51.0, 'workclass': 'Private', 'fnlwgt': 71590.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.40630367398262024, 'capital-loss': -1.0534343719482422, 'hours-per-week': 57.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 224962.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.18986129760742188, 'capital-loss': -1.162203311920166, 'hours-per-week': 47.0, 'native-country': 'United-States'}
+
+{'age': 40.0, 'workclass': 'Private', 'fnlwgt': 138845.0, 'education': 'Prof-school', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.7258052825927734, 'capital-loss': -1.3421505689620972, 'hours-per-week': 101.0, 'native-country': 'United-States'}
+
+{'age': 56.0, 'workclass': 'Self-emp-not-inc', 'fnlwgt': 36737.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.49935272336006165, 'capital-loss': -0.7836208343505859, 'hours-per-week': 86.0, 'native-country': 'United-States'}
+
+{'age': 61.0, 'workclass': 'Private', 'fnlwgt': 220676.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.3010457456111908, 'capital-loss': -0.9975458383560181, 'hours-per-week': 41.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 123298.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.345171183347702, 'capital-loss': -1.2429836988449097, 'hours-per-week': 64.0, 'native-country': 'United-States'}
+
+{'age': 47.0, 'workclass': 'Private', 'fnlwgt': 148626.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.29418787360191345, 'capital-loss': -1.2833101749420166, 'hours-per-week': 55.0, 'native-country': 'United-States'}
+
+{'age': 47.0, 'workclass': 'Private', 'fnlwgt': 297262.0, 'education': 'Bachelors', 'educational-num': 13.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Exec-managerial', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.2792390286922455, 'capital-loss': 0.08687368035316467, 'hours-per-week': 53.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 119309.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.3525543510913849, 'capital-loss': -1.4324334859848022, 'hours-per-week': 63.0, 'native-country': 'United-States'}
+
+{'age': 49.0, 'workclass': 'Private', 'fnlwgt': 552320.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.23693177103996277, 'capital-loss': -1.063442349433899, 'hours-per-week': 43.0, 'native-country': 'United-States'}
+
+{'age': 40.0, 'workclass': 'Private', 'fnlwgt': 134357.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.44335421919822693, 'capital-loss': -0.5499259233474731, 'hours-per-week': 59.0, 'native-country': 'United-States'}
+
+{'age': 53.0, 'workclass': 'Private', 'fnlwgt': 73445.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.38195163011550903, 'capital-loss': -1.3394854068756104, 'hours-per-week': 57.0, 'native-country': 'United-States'}
+
+{'age': 51.0, 'workclass': 'Private', 'fnlwgt': 298152.0, 'education': 'Doctorate', 'educational-num': 19.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.1272834837436676, 'capital-loss': -1.6548964977264404, 'hours-per-week': 54.0, 'native-country': 'United-States'}
+
+{'age': 52.0, 'workclass': 'Private', 'fnlwgt': 79713.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.4051779806613922, 'capital-loss': -0.8565073013305664, 'hours-per-week': 58.0, 'native-country': 'United-States'}
+
+{'age': 45.0, 'workclass': 'Private', 'fnlwgt': 187172.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.13718801736831665, 'capital-loss': -1.1969735622406006, 'hours-per-week': 44.0, 'native-country': 'United-States'}
+
+{'age': 61.0, 'workclass': 'Private', 'fnlwgt': 388202.0, 'education': 'Bachelors', 'educational-num': 14.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Exec-managerial', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.3261236250400543, 'capital-loss': -0.27037540078163147, 'hours-per-week': 56.0, 'native-country': 'United-States'}
+
+{'age': 53.0, 'workclass': 'Private', 'fnlwgt': 170527.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.19652259349822998, 'capital-loss': -1.0247163772583008, 'hours-per-week': 47.0, 'native-country': 'United-States'}
+
+{'age': 46.0, 'workclass': 'Self-emp-inc', 'fnlwgt': 222707.0, 'education': 'Prof-school', 'educational-num': 19.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.706238865852356, 'capital-loss': -1.6092116832733154, 'hours-per-week': 108.0, 'native-country': 'United-States'}
+
+{'age': 57.0, 'workclass': 'Private', 'fnlwgt': 400509.0, 'education': 'Masters', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.14363788068294525, 'capital-loss': -0.47692641615867615, 'hours-per-week': 40.0, 'native-country': 'United-States'}
+
+{'age': 52.0, 'workclass': 'Self-emp-not-inc', 'fnlwgt': 54707.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.4525148272514343, 'capital-loss': -0.5654879808425903, 'hours-per-week': 85.0, 'native-country': 'United-States'}
+
+{'age': 44.0, 'workclass': 'Self-emp-inc', 'fnlwgt': 220914.0, 'education': 'Prof-school', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.6776268482208252, 'capital-loss': -1.2342480421066284, 'hours-per-week': 117.0, 'native-country': 'United-States'}
+
+{'age': 41.0, 'workclass': 'Private', 'fnlwgt': 64831.0, 'education': 'Prof-school', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.5539960861206055, 'capital-loss': -0.7419887781143188, 'hours-per-week': 85.0, 'native-country': 'United-States'}
+
+{'age': 55.0, 'workclass': 'Private', 'fnlwgt': 156074.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.3235662281513214, 'capital-loss': -0.7686570882797241, 'hours-per-week': 56.0, 'native-country': 'United-States'}
+
+{'age': 52.0, 'workclass': 'Private', 'fnlwgt': 179473.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.23007066547870636, 'capital-loss': -0.9904265403747559, 'hours-per-week': 56.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Self-emp-inc', 'fnlwgt': 204288.0, 'education': 'Prof-school', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.47108593583106995, 'capital-loss': -0.8711696863174438, 'hours-per-week': 157.0, 'native-country': 'United-States'}
+
+{'age': 48.0, 'workclass': 'Self-emp-inc', 'fnlwgt': 184359.0, 'education': 'Prof-school', 'educational-num': 21.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.7883073091506958, 'capital-loss': -2.0811734199523926, 'hours-per-week': 125.0, 'native-country': 'United-States'}
+
+{'age': 43.0, 'workclass': 'Private', 'fnlwgt': 245412.0, 'education': 'Bachelors', 'educational-num': 13.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.1894204318523407, 'capital-loss': 0.030676618218421936, 'hours-per-week': 41.0, 'native-country': 'United-States'}
+
+{'age': 59.0, 'workclass': 'Self-emp-inc', 'fnlwgt': 145541.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.2368066906929016, 'capital-loss': -1.5350744724273682, 'hours-per-week': 64.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 85282.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.36024704575538635, 'capital-loss': -0.8797352313995361, 'hours-per-week': 56.0, 'native-country': 'United-States'}
+
+{'age': 46.0, 'workclass': 'Private', 'fnlwgt': 175014.0, 'education': 'Bachelors', 'educational-num': 13.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Exec-managerial', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.33365729451179504, 'capital-loss': 0.17556820809841156, 'hours-per-week': 62.0, 'native-country': 'United-States'}
+
+{'age': 57.0, 'workclass': 'Private', 'fnlwgt': 94691.0, 'education': 'Bachelors', 'educational-num': 14.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Exec-managerial', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.5137826204299927, 'capital-loss': -0.46866050362586975, 'hours-per-week': 47.0, 'native-country': 'United-States'}
+
+{'age': 45.0, 'workclass': 'Private', 'fnlwgt': 328099.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.14200475811958313, 'capital-loss': -1.3390467166900635, 'hours-per-week': 54.0, 'native-country': 'United-States'}
+
+{'age': 54.0, 'workclass': 'Private', 'fnlwgt': 106956.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.2713718116283417, 'capital-loss': -1.3553338050842285, 'hours-per-week': 47.0, 'native-country': 'United-States'}
+
+{'age': 54.0, 'workclass': 'Private', 'fnlwgt': 319495.0, 'education': 'Doctorate', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.19735005497932434, 'capital-loss': -0.7794541120529175, 'hours-per-week': 45.0, 'native-country': 'United-States'}
+
+{'age': 40.0, 'workclass': 'Private', 'fnlwgt': 70389.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.48766210675239563, 'capital-loss': -0.6874725818634033, 'hours-per-week': 59.0, 'native-country': 'United-States'}
+
+{'age': 47.0, 'workclass': 'Self-emp-inc', 'fnlwgt': 194009.0, 'education': 'Prof-school', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.6069245338439941, 'capital-loss': -0.9503417015075684, 'hours-per-week': 105.0, 'native-country': 'United-States'}
+
+{'age': 62.0, 'workclass': 'Self-emp-not-inc', 'fnlwgt': 44894.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.553216814994812, 'capital-loss': -0.8371915817260742, 'hours-per-week': 80.0, 'native-country': 'United-States'}
+
+{'age': 65.0, 'workclass': 'Private', 'fnlwgt': 139980.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.34112900495529175, 'capital-loss': -1.589494228363037, 'hours-per-week': 57.0, 'native-country': 'United-States'}
+
+{'age': 56.0, 'workclass': 'Private', 'fnlwgt': 364026.0, 'education': 'Bachelors', 'educational-num': 13.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Exec-managerial', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.28673845529556274, 'capital-loss': -0.08650025725364685, 'hours-per-week': 48.0, 'native-country': 'United-States'}
+
+{'age': 37.0, 'workclass': 'Private', 'fnlwgt': 68775.0, 'education': 'Prof-school', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.553777813911438, 'capital-loss': -0.6868259906768799, 'hours-per-week': 67.0, 'native-country': 'United-States'}
+
+{'age': 40.0, 'workclass': 'Private', 'fnlwgt': 197426.0, 'education': 'Doctorate', 'educational-num': 19.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.3523024618625641, 'capital-loss': -1.7455558776855469, 'hours-per-week': 59.0, 'native-country': 'United-States'}
+
+{'age': 49.0, 'workclass': 'Self-emp-inc', 'fnlwgt': 177296.0, 'education': 'Prof-school', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.529892086982727, 'capital-loss': -0.8508914709091187, 'hours-per-week': 96.0, 'native-country': 'United-States'}
+
+{'age': 49.0, 'workclass': 'Private', 'fnlwgt': 859399.0, 'education': 'Doctorate', 'educational-num': 19.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.6830227375030518, 'capital-loss': -0.6829626560211182, 'hours-per-week': 42.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 107450.0, 'education': 'Masters', 'educational-num': 15.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.2318284660577774, 'capital-loss': -0.7656811475753784, 'hours-per-week': 38.0, 'native-country': 'United-States'}
+
+{'age': 45.0, 'workclass': 'Private', 'fnlwgt': 328697.0, 'education': 'Doctorate', 'educational-num': 18.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.0470985472202301, 'capital-loss': -1.2997852563858032, 'hours-per-week': 48.0, 'native-country': 'United-States'}
+
+{'age': 41.0, 'workclass': 'Private', 'fnlwgt': 56295.0, 'education': 'Prof-school', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.6276668310165405, 'capital-loss': -1.1206543445587158, 'hours-per-week': 86.0, 'native-country': 'United-States'}
+
+{'age': 50.0, 'workclass': 'Private', 'fnlwgt': 45046.0, 'education': 'Prof-school', 'educational-num': 16.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.47433140873908997, 'capital-loss': -1.0079970359802246, 'hours-per-week': 57.0, 'native-country': 'United-States'}
+
+{'age': 49.0, 'workclass': 'Private', 'fnlwgt': 139060.0, 'education': 'Doctorate', 'educational-num': 17.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Prof-specialty', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.2658361494541168, 'capital-loss': -1.1486014127731323, 'hours-per-week': 55.0, 'native-country': 'United-States'}
+

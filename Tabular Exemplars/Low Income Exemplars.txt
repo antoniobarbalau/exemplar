@@ -1,0 +1,200 @@
+{'age': 1.0, 'workclass': 'Private', 'fnlwgt': 343303.0, 'education': '10th', 'educational-num': -2.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.613181710243225, 'capital-loss': -0.22077152132987976, 'hours-per-week': 38.0, 'native-country': 'Mexico'}
+
+{'age': 7.0, 'workclass': 'Private', 'fnlwgt': 286377.0, 'education': 'Some-college', 'educational-num': 10.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.285210371017456, 'capital-loss': 1.2283236980438232, 'hours-per-week': -23.0, 'native-country': 'United-States'}
+
+{'age': 20.0, 'workclass': 'Private', 'fnlwgt': 26438.0, 'education': '11th', 'educational-num': 5.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.5162742137908936, 'capital-loss': 0.04509243369102478, 'hours-per-week': 8.0, 'native-country': 'United-States'}
+
+{'age': 37.0, 'workclass': 'Private', 'fnlwgt': 276579.0, 'education': '5th-6th', 'educational-num': -11.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Other-relative', 'race': 'White', 'gender': 'Male', 'capital-gain': -2.454061985015869, 'capital-loss': 0.293347030878067, 'hours-per-week': 5.0, 'native-country': 'Mexico'}
+
+{'age': 3.0, 'workclass': 'Private', 'fnlwgt': 415690.0, 'education': '11th', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.9358735084533691, 'capital-loss': 0.6046798229217529, 'hours-per-week': 8.0, 'native-country': 'United-States'}
+
+{'age': 10.0, 'workclass': 'Private', 'fnlwgt': 249904.0, 'education': 'Some-college', 'educational-num': 10.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.3719116151332855, 'capital-loss': 0.10338297486305237, 'hours-per-week': 16.0, 'native-country': 'United-States'}
+
+{'age': 16.0, 'workclass': 'Private', 'fnlwgt': 800413.0, 'education': '10th', 'educational-num': 5.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.2540156841278076, 'capital-loss': 0.8888020515441895, 'hours-per-week': 24.0, 'native-country': 'United-States'}
+
+{'age': 9.0, 'workclass': 'Private', 'fnlwgt': 98158.0, 'education': '11th', 'educational-num': 4.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.9274744987487793, 'capital-loss': 0.39029714465141296, 'hours-per-week': -4.0, 'native-country': 'United-States'}
+
+{'age': 12.0, 'workclass': 'Private', 'fnlwgt': 373488.0, 'education': '5th-6th', 'educational-num': -8.0, 'marital-status': 'Never-married', 'occupation': 'Handlers-cleaners', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -2.008208751678467, 'capital-loss': -0.06419345736503601, 'hours-per-week': 47.0, 'native-country': 'Mexico'}
+
+{'age': 0.0, 'workclass': 'Private', 'fnlwgt': 327120.0, 'education': '10th', 'educational-num': -4.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.7925461530685425, 'capital-loss': -0.09285053610801697, 'hours-per-week': 31.0, 'native-country': 'Mexico'}
+
+{'age': 17.0, 'workclass': 'Private', 'fnlwgt': 674580.0, 'education': '5th-6th', 'educational-num': -4.0, 'marital-status': 'Never-married', 'occupation': 'Handlers-cleaners', 'relationship': 'Other-relative', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.8844850063323975, 'capital-loss': 0.4820883572101593, 'hours-per-week': 41.0, 'native-country': 'Mexico'}
+
+{'age': -7.0, 'workclass': 'Private', 'fnlwgt': 136971.0, 'education': 'Some-college', 'educational-num': 9.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.8715969324111938, 'capital-loss': -0.7177410125732422, 'hours-per-week': 9.0, 'native-country': 'United-States'}
+
+{'age': 7.0, 'workclass': 'Private', 'fnlwgt': 354520.0, 'education': '11th', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.7484821081161499, 'capital-loss': 0.4655649960041046, 'hours-per-week': 14.0, 'native-country': 'United-States'}
+
+{'age': 17.0, 'workclass': '?', 'fnlwgt': 83543.0, 'education': '11th', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': '?', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.9274401664733887, 'capital-loss': 1.6530512571334839, 'hours-per-week': -54.0, 'native-country': 'United-States'}
+
+{'age': 18.0, 'workclass': 'Private', 'fnlwgt': -1067.0, 'education': 'HS-grad', 'educational-num': 8.0, 'marital-status': 'Never-married', 'occupation': 'Farming-fishing', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.3204578459262848, 'capital-loss': -0.9327518939971924, 'hours-per-week': 59.0, 'native-country': 'United-States'}
+
+{'age': 9.0, 'workclass': 'Private', 'fnlwgt': 347803.0, 'education': 'Bachelors', 'educational-num': 13.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.5178592205047607, 'capital-loss': 0.22771230340003967, 'hours-per-week': 0.0, 'native-country': 'United-States'}
+
+{'age': 28.0, 'workclass': 'Private', 'fnlwgt': 315124.0, 'education': '5th-6th', 'educational-num': -6.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Other-relative', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.8246283531188965, 'capital-loss': 0.253873735666275, 'hours-per-week': 19.0, 'native-country': 'Mexico'}
+
+{'age': 14.0, 'workclass': 'Private', 'fnlwgt': 386732.0, 'education': '5th-6th', 'educational-num': -4.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.8593024015426636, 'capital-loss': 0.46895530819892883, 'hours-per-week': 13.0, 'native-country': 'Mexico'}
+
+{'age': 2.0, 'workclass': 'Private', 'fnlwgt': 240515.0, 'education': 'Some-college', 'educational-num': 10.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.5308880805969238, 'capital-loss': -0.6581368446350098, 'hours-per-week': 22.0, 'native-country': 'United-States'}
+
+{'age': 9.0, 'workclass': 'Private', 'fnlwgt': 10588.0, 'education': 'Some-college', 'educational-num': 12.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.42716917395591736, 'capital-loss': -0.39332684874534607, 'hours-per-week': 8.0, 'native-country': 'United-States'}
+
+{'age': 70.0, 'workclass': '?', 'fnlwgt': 340018.0, 'education': '7th-8th', 'educational-num': 3.0, 'marital-status': 'Widowed', 'occupation': '?', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.1088110208511353, 'capital-loss': 0.984021782875061, 'hours-per-week': -11.0, 'native-country': 'United-States'}
+
+{'age': 68.0, 'workclass': '?', 'fnlwgt': 802033.0, 'education': '7th-8th', 'educational-num': 5.0, 'marital-status': 'Widowed', 'occupation': '?', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.371672511100769, 'capital-loss': 0.9283125400543213, 'hours-per-week': 4.0, 'native-country': 'United-States'}
+
+{'age': 81.0, 'workclass': '?', 'fnlwgt': 360279.0, 'education': 'Some-college', 'educational-num': 11.0, 'marital-status': 'Widowed', 'occupation': '?', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.043190598487854, 'capital-loss': 0.8587542772293091, 'hours-per-week': -18.0, 'native-country': 'United-States'}
+
+{'age': 72.0, 'workclass': '?', 'fnlwgt': 748409.0, 'education': '7th-8th', 'educational-num': 7.0, 'marital-status': 'Widowed', 'occupation': '?', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.5865083932876587, 'capital-loss': 1.116877794265747, 'hours-per-week': -11.0, 'native-country': 'United-States'}
+
+{'age': -6.0, 'workclass': 'Private', 'fnlwgt': 388690.0, 'education': '10th', 'educational-num': -5.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -2.0674126148223877, 'capital-loss': -0.3768429458141327, 'hours-per-week': 41.0, 'native-country': 'Mexico'}
+
+{'age': 29.0, 'workclass': 'Private', 'fnlwgt': 107096.0, 'education': '5th-6th', 'educational-num': -12.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.9516795873641968, 'capital-loss': -0.20704063773155212, 'hours-per-week': 30.0, 'native-country': 'Mexico'}
+
+{'age': 21.0, 'workclass': '?', 'fnlwgt': -30722.0, 'education': '11th', 'educational-num': 3.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.6149431467056274, 'capital-loss': 0.7933989763259888, 'hours-per-week': -45.0, 'native-country': 'United-States'}
+
+{'age': 18.0, 'workclass': 'Private', 'fnlwgt': -42160.0, 'education': 'Some-college', 'educational-num': 11.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.399207204580307, 'capital-loss': -0.4303486943244934, 'hours-per-week': 4.0, 'native-country': 'United-States'}
+
+{'age': 24.0, 'workclass': 'Private', 'fnlwgt': 296510.0, 'education': 'Bachelors', 'educational-num': 12.0, 'marital-status': 'Never-married', 'occupation': 'Adm-clerical', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.4800480902194977, 'capital-loss': 0.7083969116210938, 'hours-per-week': 8.0, 'native-country': 'United-States'}
+
+{'age': 46.0, 'workclass': 'Private', 'fnlwgt': 180938.0, 'education': '7th-8th', 'educational-num': 1.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Other-service', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.6452111005783081, 'capital-loss': 0.1660795509815216, 'hours-per-week': 24.0, 'native-country': 'United-States'}
+
+{'age': 3.0, 'workclass': 'Private', 'fnlwgt': 39673.0, 'education': '11th', 'educational-num': 5.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.8623306751251221, 'capital-loss': -0.6535944938659668, 'hours-per-week': 24.0, 'native-country': 'United-States'}
+
+{'age': 11.0, 'workclass': 'Private', 'fnlwgt': 124419.0, 'education': '11th', 'educational-num': 5.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.713109016418457, 'capital-loss': -0.6170930862426758, 'hours-per-week': 52.0, 'native-country': 'United-States'}
+
+{'age': 28.0, 'workclass': 'Private', 'fnlwgt': 195303.0, 'education': '5th-6th', 'educational-num': -14.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Other-relative', 'race': 'White', 'gender': 'Male', 'capital-gain': -2.478447437286377, 'capital-loss': -0.04166576266288757, 'hours-per-week': 18.0, 'native-country': 'Mexico'}
+
+{'age': 29.0, 'workclass': 'Private', 'fnlwgt': 280142.0, 'education': 'Some-college', 'educational-num': 11.0, 'marital-status': 'Never-married', 'occupation': '?', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.740166425704956, 'capital-loss': 1.0065999031066895, 'hours-per-week': 0.0, 'native-country': 'United-States'}
+
+{'age': 12.0, 'workclass': 'Private', 'fnlwgt': 128686.0, 'education': '11th', 'educational-num': 8.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.5835546255111694, 'capital-loss': 0.4249812960624695, 'hours-per-week': 5.0, 'native-country': 'United-States'}
+
+{'age': 22.0, 'workclass': 'Private', 'fnlwgt': 85405.0, 'education': 'HS-grad', 'educational-num': 10.0, 'marital-status': 'Never-married', 'occupation': 'Farming-fishing', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.10648980736732483, 'capital-loss': -0.4617037773132324, 'hours-per-week': 68.0, 'native-country': 'United-States'}
+
+{'age': 27.0, 'workclass': '?', 'fnlwgt': 109047.0, 'education': '11th', 'educational-num': 5.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.223371148109436, 'capital-loss': 0.9166290760040283, 'hours-per-week': -18.0, 'native-country': 'United-States'}
+
+{'age': 14.0, 'workclass': 'Private', 'fnlwgt': -7791.0, 'education': '11th', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.5181722640991211, 'capital-loss': -0.21862876415252686, 'hours-per-week': 10.0, 'native-country': 'United-States'}
+
+{'age': 19.0, 'workclass': 'Private', 'fnlwgt': 393950.0, 'education': 'Some-college', 'educational-num': 10.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.24904516339302063, 'capital-loss': 0.4669435918331146, 'hours-per-week': 24.0, 'native-country': 'United-States'}
+
+{'age': 38.0, 'workclass': 'Private', 'fnlwgt': 426953.0, 'education': '5th-6th', 'educational-num': -7.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Other-relative', 'race': 'White', 'gender': 'Male', 'capital-gain': -2.0723297595977783, 'capital-loss': 0.2898932993412018, 'hours-per-week': 16.0, 'native-country': 'Mexico'}
+
+{'age': 15.0, 'workclass': 'Private', 'fnlwgt': 416588.0, 'education': '5th-6th', 'educational-num': -2.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.6491488218307495, 'capital-loss': 0.4445169270038605, 'hours-per-week': 20.0, 'native-country': 'Mexico'}
+
+{'age': 2.0, 'workclass': 'Private', 'fnlwgt': 186032.0, 'education': '11th', 'educational-num': 5.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.9979705810546875, 'capital-loss': -0.7947945594787598, 'hours-per-week': 43.0, 'native-country': 'United-States'}
+
+{'age': -4.0, 'workclass': 'Private', 'fnlwgt': 456529.0, 'education': '11th', 'educational-num': 2.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.393548607826233, 'capital-loss': -0.042274683713912964, 'hours-per-week': 28.0, 'native-country': 'United-States'}
+
+{'age': 28.0, 'workclass': 'Private', 'fnlwgt': 190569.0, 'education': 'HS-grad', 'educational-num': 8.0, 'marital-status': 'Never-married', 'occupation': 'Craft-repair', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.006150677800178528, 'capital-loss': -0.1447395235300064, 'hours-per-week': 38.0, 'native-country': 'United-States'}
+
+{'age': 5.0, 'workclass': 'Private', 'fnlwgt': 198624.0, 'education': '11th', 'educational-num': 3.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.0435779094696045, 'capital-loss': 0.16974756121635437, 'hours-per-week': 9.0, 'native-country': 'United-States'}
+
+{'age': 18.0, 'workclass': 'Private', 'fnlwgt': 8997.0, 'education': 'HS-grad', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Farming-fishing', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.4639352858066559, 'capital-loss': -0.7925574779510498, 'hours-per-week': 75.0, 'native-country': 'United-States'}
+
+{'age': 18.0, 'workclass': 'Private', 'fnlwgt': -22593.0, 'education': '10th', 'educational-num': -0.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.1819422245025635, 'capital-loss': 0.10349836945533752, 'hours-per-week': -15.0, 'native-country': 'United-States'}
+
+{'age': 7.0, 'workclass': 'Private', 'fnlwgt': 386206.0, 'education': 'Bachelors', 'educational-num': 12.0, 'marital-status': 'Never-married', 'occupation': 'Adm-clerical', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.23552033305168152, 'capital-loss': -0.6190527677536011, 'hours-per-week': 29.0, 'native-country': 'United-States'}
+
+{'age': 4.0, 'workclass': 'Private', 'fnlwgt': 288969.0, 'education': 'Some-college', 'educational-num': 10.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.4734649360179901, 'capital-loss': -0.5762299299240112, 'hours-per-week': 27.0, 'native-country': 'United-States'}
+
+{'age': 10.0, 'workclass': 'Private', 'fnlwgt': -48796.0, 'education': 'Some-college', 'educational-num': 9.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.717980146408081, 'capital-loss': -0.19682380557060242, 'hours-per-week': -5.0, 'native-country': 'United-States'}
+
+{'age': 15.0, 'workclass': 'Private', 'fnlwgt': 137234.0, 'education': 'Some-college', 'educational-num': 11.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.9426870346069336, 'capital-loss': 0.9405888319015503, 'hours-per-week': -14.0, 'native-country': 'United-States'}
+
+{'age': 14.0, 'workclass': 'Private', 'fnlwgt': 249352.0, 'education': '11th', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.5689792633056641, 'capital-loss': 0.4717014729976654, 'hours-per-week': 12.0, 'native-country': 'United-States'}
+
+{'age': 15.0, 'workclass': 'Private', 'fnlwgt': 75864.0, 'education': '7th-8th', 'educational-num': -4.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.2677536010742188, 'capital-loss': -0.44142696261405945, 'hours-per-week': 35.0, 'native-country': 'Mexico'}
+
+{'age': 18.0, 'workclass': 'Private', 'fnlwgt': 356170.0, 'education': '5th-6th', 'educational-num': -7.0, 'marital-status': 'Never-married', 'occupation': 'Farming-fishing', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.7796339988708496, 'capital-loss': -0.04056653380393982, 'hours-per-week': 52.0, 'native-country': 'Mexico'}
+
+{'age': 25.0, 'workclass': 'Private', 'fnlwgt': 396629.0, 'education': 'HS-grad', 'educational-num': 8.0, 'marital-status': 'Never-married', 'occupation': 'Craft-repair', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.3052140176296234, 'capital-loss': 0.533753514289856, 'hours-per-week': 70.0, 'native-country': 'United-States'}
+
+{'age': 52.0, 'workclass': 'Private', 'fnlwgt': 200988.0, 'education': '7th-8th', 'educational-num': 4.0, 'marital-status': 'Married-civ-spouse', 'occupation': 'Craft-repair', 'relationship': 'Husband', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.003001272678375244, 'capital-loss': 0.011447161436080933, 'hours-per-week': 38.0, 'native-country': 'United-States'}
+
+{'age': 26.0, 'workclass': 'Private', 'fnlwgt': 161620.0, 'education': '11th', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Craft-repair', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.18835052847862244, 'capital-loss': -0.10563233494758606, 'hours-per-week': 43.0, 'native-country': 'United-States'}
+
+{'age': 36.0, 'workclass': '?', 'fnlwgt': 71740.0, 'education': 'Some-college', 'educational-num': 8.0, 'marital-status': 'Never-married', 'occupation': '?', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.5642427206039429, 'capital-loss': 1.4576483964920044, 'hours-per-week': -48.0, 'native-country': 'United-States'}
+
+{'age': 12.0, 'workclass': 'Private', 'fnlwgt': 135651.0, 'education': 'Some-college', 'educational-num': 11.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.5322699546813965, 'capital-loss': 0.3014804720878601, 'hours-per-week': 4.0, 'native-country': 'United-States'}
+
+{'age': -1.0, 'workclass': 'Private', 'fnlwgt': 121130.0, 'education': 'Some-college', 'educational-num': 9.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.6601190567016602, 'capital-loss': -0.9969594478607178, 'hours-per-week': 25.0, 'native-country': 'United-States'}
+
+{'age': 68.0, 'workclass': '?', 'fnlwgt': 636956.0, 'education': 'Some-college', 'educational-num': 10.0, 'marital-status': 'Widowed', 'occupation': '?', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.7732566595077515, 'capital-loss': 1.3751076459884644, 'hours-per-week': -27.0, 'native-country': 'United-States'}
+
+{'age': 12.0, 'workclass': 'Private', 'fnlwgt': 302131.0, 'education': 'Bachelors', 'educational-num': 12.0, 'marital-status': 'Never-married', 'occupation': 'Adm-clerical', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.07379230856895447, 'capital-loss': -0.5553512573242188, 'hours-per-week': 29.0, 'native-country': 'United-States'}
+
+{'age': 4.0, 'workclass': 'Private', 'fnlwgt': 192054.0, 'education': 'Some-college', 'educational-num': 12.0, 'marital-status': 'Never-married', 'occupation': 'Adm-clerical', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.3174956738948822, 'capital-loss': -1.050825834274292, 'hours-per-week': 30.0, 'native-country': 'United-States'}
+
+{'age': 6.0, 'workclass': 'Private', 'fnlwgt': -23716.0, 'education': '11th', 'educational-num': 8.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.7900508642196655, 'capital-loss': -0.07411500811576843, 'hours-per-week': -2.0, 'native-country': 'United-States'}
+
+{'age': -2.0, 'workclass': 'Private', 'fnlwgt': 273362.0, 'education': '11th', 'educational-num': 6.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.0187944173812866, 'capital-loss': 0.17709603905677795, 'hours-per-week': 6.0, 'native-country': 'United-States'}
+
+{'age': 81.0, 'workclass': '?', 'fnlwgt': 132475.0, 'education': '7th-8th', 'educational-num': 5.0, 'marital-status': 'Widowed', 'occupation': '?', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': 0.062141284346580505, 'capital-loss': 0.24307486414909363, 'hours-per-week': 7.0, 'native-country': 'United-States'}
+
+{'age': 5.0, 'workclass': 'Private', 'fnlwgt': 220985.0, 'education': '5th-6th', 'educational-num': -10.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -2.1774768829345703, 'capital-loss': -0.2771620452404022, 'hours-per-week': 31.0, 'native-country': 'Mexico'}
+
+{'age': 40.0, 'workclass': 'Private', 'fnlwgt': 450043.0, 'education': '5th-6th', 'educational-num': -9.0, 'marital-status': 'Never-married', 'occupation': 'Farming-fishing', 'relationship': 'Other-relative', 'race': 'White', 'gender': 'Male', 'capital-gain': -2.3754050731658936, 'capital-loss': 0.3452191650867462, 'hours-per-week': 10.0, 'native-country': 'Mexico'}
+
+{'age': 23.0, 'workclass': 'Private', 'fnlwgt': 214541.0, 'education': 'Some-college', 'educational-num': 10.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.2585960328578949, 'capital-loss': 0.4785439074039459, 'hours-per-week': 17.0, 'native-country': 'United-States'}
+
+{'age': 2.0, 'workclass': '?', 'fnlwgt': 11500.0, 'education': '11th', 'educational-num': 3.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.6364631652832031, 'capital-loss': 0.8988914489746094, 'hours-per-week': -41.0, 'native-country': 'United-States'}
+
+{'age': -7.0, 'workclass': 'Private', 'fnlwgt': 157560.0, 'education': '11th', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.0331953763961792, 'capital-loss': -0.49402937293052673, 'hours-per-week': 10.0, 'native-country': 'United-States'}
+
+{'age': 9.0, 'workclass': 'Private', 'fnlwgt': 50141.0, 'education': 'Some-college', 'educational-num': 8.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.45668068528175354, 'capital-loss': -0.39416465163230896, 'hours-per-week': 22.0, 'native-country': 'United-States'}
+
+{'age': 6.0, 'workclass': 'Private', 'fnlwgt': 753614.0, 'education': '10th', 'educational-num': 3.0, 'marital-status': 'Never-married', 'occupation': 'Handlers-cleaners', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.3930107355117798, 'capital-loss': 0.4876303970813751, 'hours-per-week': 41.0, 'native-country': 'United-States'}
+
+{'age': 6.0, 'workclass': 'Private', 'fnlwgt': 62261.0, 'education': 'Some-college', 'educational-num': 8.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.6405961513519287, 'capital-loss': -0.022595077753067017, 'hours-per-week': 7.0, 'native-country': 'United-States'}
+
+{'age': 20.0, 'workclass': 'Private', 'fnlwgt': 19152.0, 'education': 'HS-grad', 'educational-num': 9.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.20050829648971558, 'capital-loss': -0.8079323768615723, 'hours-per-week': 41.0, 'native-country': 'United-States'}
+
+{'age': 12.0, 'workclass': 'Private', 'fnlwgt': 416877.0, 'education': '11th', 'educational-num': 5.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.7238513231277466, 'capital-loss': 0.07846000790596008, 'hours-per-week': 48.0, 'native-country': 'United-States'}
+
+{'age': 21.0, 'workclass': 'Private', 'fnlwgt': 149867.0, 'education': 'Some-college', 'educational-num': 8.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.2775941789150238, 'capital-loss': 0.32620811462402344, 'hours-per-week': 16.0, 'native-country': 'United-States'}
+
+{'age': 3.0, 'workclass': 'Private', 'fnlwgt': 189292.0, 'education': '11th', 'educational-num': 3.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.086678147315979, 'capital-loss': 0.23300722241401672, 'hours-per-week': 3.0, 'native-country': 'United-States'}
+
+{'age': 27.0, 'workclass': 'Private', 'fnlwgt': 56451.0, 'education': 'HS-grad', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.022292062640190125, 'capital-loss': -0.3627883493900299, 'hours-per-week': 38.0, 'native-country': 'United-States'}
+
+{'age': 21.0, 'workclass': '?', 'fnlwgt': 160435.0, 'education': '11th', 'educational-num': 8.0, 'marital-status': 'Never-married', 'occupation': '?', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.5548778772354126, 'capital-loss': 1.4074757099151611, 'hours-per-week': -30.0, 'native-country': 'United-States'}
+
+{'age': 21.0, 'workclass': 'Private', 'fnlwgt': 398082.0, 'education': 'HS-grad', 'educational-num': 6.0, 'marital-status': 'Never-married', 'occupation': 'Transport-moving', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.5872255563735962, 'capital-loss': 0.4857957661151886, 'hours-per-week': 94.0, 'native-country': 'United-States'}
+
+{'age': -0.0, 'workclass': 'Private', 'fnlwgt': 269121.0, 'education': 'Some-college', 'educational-num': 12.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.5646123886108398, 'capital-loss': -0.5622596740722656, 'hours-per-week': 12.0, 'native-country': 'United-States'}
+
+{'age': 8.0, 'workclass': 'Private', 'fnlwgt': 390770.0, 'education': '11th', 'educational-num': 6.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.7224602699279785, 'capital-loss': -0.2525883615016937, 'hours-per-week': 50.0, 'native-country': 'United-States'}
+
+{'age': -2.0, 'workclass': 'Private', 'fnlwgt': 115040.0, 'education': '11th', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.8714380264282227, 'capital-loss': -0.6015708446502686, 'hours-per-week': 18.0, 'native-country': 'United-States'}
+
+{'age': 3.0, 'workclass': 'Private', 'fnlwgt': 42044.0, 'education': 'Some-college', 'educational-num': 9.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.5112112760543823, 'capital-loss': -0.9783902168273926, 'hours-per-week': 26.0, 'native-country': 'United-States'}
+
+{'age': 72.0, 'workclass': '?', 'fnlwgt': 549105.0, 'education': '7th-8th', 'educational-num': -1.0, 'marital-status': 'Widowed', 'occupation': '?', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.9370149374008179, 'capital-loss': 1.1702666282653809, 'hours-per-week': -20.0, 'native-country': 'United-States'}
+
+{'age': 13.0, 'workclass': 'Private', 'fnlwgt': 96590.0, 'education': 'Some-college', 'educational-num': 11.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.0641977787017822, 'capital-loss': 0.9198446273803711, 'hours-per-week': -23.0, 'native-country': 'United-States'}
+
+{'age': 11.0, 'workclass': 'Private', 'fnlwgt': 72613.0, 'education': '11th', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.4596001207828522, 'capital-loss': -0.2995343506336212, 'hours-per-week': 24.0, 'native-country': 'United-States'}
+
+{'age': 17.0, 'workclass': 'Private', 'fnlwgt': 255843.0, 'education': 'Some-college', 'educational-num': 11.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.3503359258174896, 'capital-loss': 0.5366228818893433, 'hours-per-week': 10.0, 'native-country': 'United-States'}
+
+{'age': 35.0, 'workclass': '?', 'fnlwgt': 331719.0, 'education': 'Some-college', 'educational-num': 10.0, 'marital-status': 'Never-married', 'occupation': '?', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.246800422668457, 'capital-loss': 1.4162991046905518, 'hours-per-week': -17.0, 'native-country': 'United-States'}
+
+{'age': 4.0, 'workclass': 'Private', 'fnlwgt': 294684.0, 'education': 'Some-college', 'educational-num': 10.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.48813197016716003, 'capital-loss': -0.400095134973526, 'hours-per-week': 23.0, 'native-country': 'United-States'}
+
+{'age': 4.0, 'workclass': 'Private', 'fnlwgt': 134334.0, 'education': '11th', 'educational-num': 3.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.026997685432434, 'capital-loss': 0.3386031687259674, 'hours-per-week': -5.0, 'native-country': 'United-States'}
+
+{'age': -4.0, 'workclass': 'Private', 'fnlwgt': 220249.0, 'education': '11th', 'educational-num': 2.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.33499276638031, 'capital-loss': -0.5049221515655518, 'hours-per-week': 26.0, 'native-country': 'United-States'}
+
+{'age': 2.0, 'workclass': 'Private', 'fnlwgt': 275101.0, 'education': '11th', 'educational-num': 5.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.9259058237075806, 'capital-loss': -0.4153817594051361, 'hours-per-week': 34.0, 'native-country': 'United-States'}
+
+{'age': 14.0, 'workclass': 'Private', 'fnlwgt': 148154.0, 'education': 'HS-grad', 'educational-num': 7.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.4768492877483368, 'capital-loss': -0.516390323638916, 'hours-per-week': 49.0, 'native-country': 'United-States'}
+
+{'age': 16.0, 'workclass': 'Private', 'fnlwgt': 50891.0, 'education': '11th', 'educational-num': 5.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.7226868867874146, 'capital-loss': 0.32182198762893677, 'hours-per-week': -1.0, 'native-country': 'United-States'}
+
+{'age': 14.0, 'workclass': 'Private', 'fnlwgt': -2055.0, 'education': '11th', 'educational-num': 4.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -0.6210371255874634, 'capital-loss': -0.13327553868293762, 'hours-per-week': 8.0, 'native-country': 'United-States'}
+
+{'age': -3.0, 'workclass': 'Private', 'fnlwgt': 51701.0, 'education': '11th', 'educational-num': 1.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Female', 'capital-gain': -1.2552152872085571, 'capital-loss': -0.21727952361106873, 'hours-per-week': 0.0, 'native-country': 'United-States'}
+
+{'age': 70.0, 'workclass': '?', 'fnlwgt': 189692.0, 'education': '7th-8th', 'educational-num': 6.0, 'marital-status': 'Widowed', 'occupation': '?', 'relationship': 'Not-in-family', 'race': 'White', 'gender': 'Male', 'capital-gain': -0.41368868947029114, 'capital-loss': 0.712246298789978, 'hours-per-week': 0.0, 'native-country': 'United-States'}
+
+{'age': -9.0, 'workclass': 'Private', 'fnlwgt': 260075.0, 'education': '11th', 'educational-num': 2.0, 'marital-status': 'Never-married', 'occupation': 'Other-service', 'relationship': 'Own-child', 'race': 'White', 'gender': 'Male', 'capital-gain': -1.4946821928024292, 'capital-loss': -0.5121012926101685, 'hours-per-week': 23.0, 'native-country': 'United-States'}
+
