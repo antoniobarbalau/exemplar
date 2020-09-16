@@ -13,13 +13,13 @@ Except for Pillow which requires a version lower than 7, we used the latest vers
 If using Anaconda the following commands will generate a sufficient environment for running the code:
 
 
-conda create -n env python=3.7.6
-conda install pytorch
-conda install torchvision
-pip install "pillow<7"
-pip install opencv-python
-pip install matplotlib
-pip install sklearn
+conda create -n env python=3.7.6  
+conda install pytorch  
+conda install torchvision  
+pip install "pillow<7"  
+pip install opencv-python  
+pip install matplotlib  
+pip install sklearn  
 
 
 For text generation, requirements are presented in text_requirements.txt.
